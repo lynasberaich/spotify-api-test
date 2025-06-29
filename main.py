@@ -14,7 +14,7 @@ app.secret_key = os.urandom(64)
 #from spotify api website
 client_id = 'fed06dbca8c34c02aab5d81cde14493e'
 client_secret = '9f4b021e79334b9db31b49ebe5e1e744'
-redirect_uri = 'https://262f-2601-14e-4100-3990-24e3-c354-64ac-a00e.ngrok-free.app/callback'
+redirect_uri = 'https://spotify-api-test-un61.onrender.com/callback'
 scope = 'playlist-read-private'
 
 #manages the session
