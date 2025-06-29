@@ -1,4 +1,4 @@
-#!/Users/lynab/personal-repos/spotify-test/venv/bin/python3
+#!/Users/lynab/personal-repos/spotify-test/spotify-api-test/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys

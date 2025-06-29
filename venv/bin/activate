@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/lynab/personal-repos/spotify-test/venv"
+VIRTUAL_ENV="/Users/lynab/personal-repos/spotify-test/spotify-api-test/venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
